@@ -47,7 +47,7 @@
 
 ## 7. 其他教程
 
-- [谷歌学术简明使用说明] (https://github.com/zjcao/books/blob/master/google_scholar_instructions.pdf)
+- [谷歌学术简明使用说明](https://github.com/zjcao/books/blob/master/google_scholar_instructions.pdf)
 
 
 ## 8. Others
