@@ -48,3 +48,5 @@
 - 更多电子书请访问 [IT熊猫](https://itpanda.net/book/category/machine-learning) 查找
 
 - 更多AI电子书请访问 [https://github.com/Kensuke-Hinata/statistic/tree/master/AI/books](https://github.com/Kensuke-Hinata/statistic/tree/master/AI/books) 查找
+
+- 更多电子书请访问 [https://github.com/foochane/books](https://github.com/foochane/books) 查找
