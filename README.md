@@ -35,19 +35,19 @@
 
 - [《MATLAB机器学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/MATLAB%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 
-- [《机器学习训练秘籍》中文版_吴恩达.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+- [《机器学习训练秘籍》_中文版_吴恩达.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 
 
 ## 6. PyTorch学习
 
 - [《深度学习框架PyTorch：入门与实践》_中文版_陈云.ipynb](https://github.com/chenyuntc/pytorch-book)
 
-- [《PyTorch深度学习.pdf》](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/PyTorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
+- [《PyTorch深度学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/PyTorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
 
 ## 7. 其他教程
 
-- [谷歌学术简明使用说明] (./google_scholar_instructions.pdf)
+- [谷歌学术简明使用说明] (https://github.com/zjcao/books/blob/master/google_scholar_instructions.pdf)
 
 
 ## 8. Others
