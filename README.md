@@ -31,7 +31,9 @@
 
 ## 5. 机器学习
 
-- [《Python机器学习.pdf》](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/Python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
+- [《Python机器学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/Python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
+
+- [《MATLAB机器学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/MATLAB%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 
 - [《机器学习训练秘籍》中文版_吴恩达.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 
