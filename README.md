@@ -59,4 +59,5 @@
 
 
 [//]: (references:)
+[dive_into_deep_learning]: <http://zh.gluon.ai/>
 [machine-learning-yearning-cn]: <https://deeplearning-ai.github.io/machine-learning-yearning-cn/>
