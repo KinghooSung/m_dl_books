@@ -18,7 +18,7 @@
 
 - [《动手学深度学习》_中文版_李沐.pdf](http://zh.gluon.ai/)
 
-- [《Machine Learning Yearning 中文版》(Machine Learning Yearning 中文版)]
+- [《Machine Learning Yearning 中文版》](Machine Learning Yearning 中文版)]
 
 ## 3. 自然语言基础
 
