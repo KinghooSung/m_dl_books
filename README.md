@@ -18,8 +18,6 @@
 
 - [《动手学深度学习》_中文版_李沐.pdf](http://zh.gluon.ai/)
 
-- [《Machine Learning Yearning 中文版》_Andrew Ng](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
-
 ## 3. 自然语言基础
 
 -  [《深度学习进阶：自然语言处理》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6%EF%BC%9A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.pdf)
@@ -36,7 +34,7 @@
 
 - [《MATLAB机器学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/MATLAB%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 
-- [《机器学习训练秘籍》_中文版_吴恩达.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+- [《Machine Learning Yearning》_中文版_Andrew Ng.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 
 
 ## 6. PyTorch学习
