@@ -56,3 +56,10 @@
 - 更多AI电子书请访问 [https://github.com/Kensuke-Hinata/statistic/tree/master/AI/books](https://github.com/Kensuke-Hinata/statistic/tree/master/AI/books) 查找
 
 - 更多电子书请访问 [https://github.com/foochane/books](https://github.com/foochane/books) 查找
+
+
+- [《Machine Learning Yearning 中文版》_Andrew Ng][machine-learning-yearning-cn]
+
+
+[//]: (references:)
+[machine-learning-yearning-cn]: <https://deeplearning-ai.github.io/machine-learning-yearning-cn/>
