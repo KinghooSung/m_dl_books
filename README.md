@@ -34,7 +34,7 @@
 
 - [《MATLAB机器学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/MATLAB%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 
-- [《Machine Learning Yearning》_中文版_Andrew Ng.pdf](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+- [《Machine Learning Yearning》_中文版_Andrew Ng.pdf][machine-learning-yearning-cn]
 
 
 ## 6. PyTorch学习
@@ -56,9 +56,6 @@
 - 更多AI电子书请访问 [https://github.com/Kensuke-Hinata/statistic/tree/master/AI/books](https://github.com/Kensuke-Hinata/statistic/tree/master/AI/books) 查找
 
 - 更多电子书请访问 [https://github.com/foochane/books](https://github.com/foochane/books) 查找
-
-
-- [《Machine Learning Yearning 中文版》_Andrew Ng][machine-learning-yearning-cn]
 
 
 [//]: (references:)
