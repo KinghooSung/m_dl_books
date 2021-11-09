@@ -12,7 +12,7 @@
 - [《Python深度学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
 
-### 开源电子书
+_开源电子书_
 
 - [《神经网络与深度学习》_中文版_邱锡鹏.pdf](https://nndl.github.io/)
 
@@ -33,6 +33,8 @@
 - [《Python机器学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/Python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 
 - [《MATLAB机器学习》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/MATLAB%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
+
+_开源电子书_
 
 - [《Machine Learning Yearning》_中文版_Andrew Ng.pdf][machine-learning-yearning-cn]
 
