@@ -22,6 +22,9 @@ _开源电子书_
 
 -  [《深度学习进阶：自然语言处理》_中文版.pdf](https://github.com/Kensuke-Hinata/statistic/blob/master/AI/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6%EF%BC%9A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.pdf)
 
+_开源电子书_
+
+- [《机器翻译：基础与模型》.pdf][https://opensource.niutrans.com/mtbook/homepage.html]
 
 ## 4. 计算机视觉
 
