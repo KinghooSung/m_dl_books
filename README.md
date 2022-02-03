@@ -24,7 +24,7 @@ _开源电子书_
 
 _开源电子书_
 
-- [《机器翻译：基础与模型》.pdf]([https://opensource.niutrans.com/mtbook/homepage.html])
+- [《机器翻译：基础与模型》.pdf](https://opensource.niutrans.com/mtbook/homepage.html)
 
 ## 4. 计算机视觉
 
