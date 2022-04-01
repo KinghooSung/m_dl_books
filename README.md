@@ -30,6 +30,10 @@ _开源电子书_
 
 - [《Python计算机视觉编程》_中文版.pdf](https://github.com/silenove/python_ebook/blob/master/python%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.pdf)
 
+_开源电子书_
+
+- [《计算机视觉实战演练：算法与应用》_张伟.pdf](https://charmve.github.io/computer-vision-in-action/#/README)
+
 
 ## 5. 机器学习
 
