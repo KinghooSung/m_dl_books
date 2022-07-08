@@ -44,6 +44,7 @@ _开源电子书_
 _开源电子书_
 
 - [《Machine Learning Yearning》_中文版_Andrew Ng.pdf][machine-learning-yearning-cn]
+-[模式识别与机器学习_中文版_含书签_马春鹏.pdf](./模式识别与机器学习_中文版_含书签_马春鹏.pdf)
 
 
 ## 6. PyTorch学习
